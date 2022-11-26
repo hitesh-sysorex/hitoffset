@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217601875559",
+    "project_id": "offset-b4010",
+    "storage_bucket": "offset-b4010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217601875559:android:564062f52c811af8b6bec2",
+        "android_client_info": {
+          "package_name": "com.example.hitoffset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217601875559-misclnp53q27j8bmafm8v9lfuk8nf2ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArQ5xmQSEM3NHgZzu7Z32vGLjluPhMF40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217601875559-misclnp53q27j8bmafm8v9lfuk8nf2ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
